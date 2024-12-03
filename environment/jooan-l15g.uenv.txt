@@ -3,4 +3,4 @@ day_night_min=500
 disable_eth=true
 enable_updates=true
 gpio_wlan=6
-wlandev=ssv615x
+wlandev=ssv6x5x
